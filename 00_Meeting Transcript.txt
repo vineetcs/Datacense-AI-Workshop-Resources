@@ -1,0 +1,153 @@
+# Meeting Transcript – Excel Training Requirement
+
+**Client:** Horizon Trading LLC
+**Meeting:** Excel Training Requirement Discussion
+**Date:** 24 September 2026
+**Duration:** Approximately 30 minutes
+**Meeting Type:** Microsoft Teams
+
+### Participants
+
+**Sarah** – HR Manager, Horizon Trading LLC
+**Ahmed** – Training Coordinator, Horizon Trading LLC
+**David** – Training Consultant
+
+---
+
+**Sarah:** Hi David, thanks for joining. As Ahmed mentioned earlier, we're looking for an Excel training program for some of our employees.
+
+**David:** Thanks, Sarah. Ahmed gave me a brief idea, but it would be good to understand exactly what you're looking for.
+
+**Ahmed:** Sure. We have people from Finance, HR, Sales and Operations who use Excel regularly. Most of them know the basics, but we want to improve their practical skills.
+
+**David:** Okay. So you're not looking for beginner-level training?
+
+**Ahmed:** Not really. Maybe a quick refresher at the beginning, but we don't need to spend much time on very basic things.
+
+**Sarah:** Exactly. We want something more practical. They work with Excel every day, but many of them still do a lot of things manually.
+
+**David:** What kind of topics do you have in mind?
+
+**Ahmed:** Definitely formulas. Things like IF, SUMIFS, COUNTIFS, XLOOKUP and maybe some text and date functions.
+
+**Sarah:** PivotTables as well. That's important because several teams prepare monthly reports.
+
+**David:** What about dashboards and charts?
+
+**Sarah:** Yes, but not anything too advanced. It would be useful if they could take some data and create a simple management dashboard.
+
+**Ahmed:** One more thing is data cleaning. We receive Excel files from different departments, and people spend quite a bit of time cleaning and combining them.
+
+**David:** In that case, I would recommend including Power Query. We can show them how to clean data and combine multiple files.
+
+**Ahmed:** Yes, that would be useful. Most of them haven't used Power Query before.
+
+**David:** That's fine. We can start it from the basics.
+
+**Sarah:** How many days do you think we would need?
+
+**David:** Based on what we've discussed, I would recommend around **three days**. We could do formulas and Excel productivity on the first day, PivotTables and reporting on the second day, and Power Query plus dashboards and some automation on the third day.
+
+**Ahmed:** Would those be full days?
+
+**David:** Ideally, yes. Around five to six hours of actual training each day, excluding breaks.
+
+**Sarah:** Three consecutive days might be difficult because people still have their regular work.
+
+**Ahmed:** Could we spread it out? Maybe two days in one week and the third day the following week?
+
+**David:** Absolutely. Actually, that can work better because participants get some time to practice between sessions.
+
+**Sarah:** Okay. What about the number of participants?
+
+**Ahmed:** Initially we thought around **15 people**, but a few other department managers have shown interest. So it may go up to around **21 participants**.
+
+**David:** Fifteen is quite comfortable for one batch. Twenty-one is still possible, but for hands-on training I would prefer smaller groups if the budget and schedule allow it.
+
+**Sarah:** If it becomes 21, how would you suggest splitting them?
+
+**David:** We could create **two batches**, perhaps 10 participants in one and 11 in the other. Both groups would receive the same three-day program.
+
+**Ahmed:** But then that becomes six training days for you, correct?
+
+**David:** Correct. Three days for Batch 1 and another three days for Batch 2.
+
+**Sarah:** That will obviously affect the cost.
+
+**David:** Yes. So I think the proposal should show both scenarios. **Option 1** could be up to 15 participants as one batch. **Option 2** could be 21 participants divided into two smaller batches.
+
+**Sarah:** That's better. Then management can decide.
+
+**Ahmed:** Do you have an approximate cost per training day?
+
+**David:** For this type of customized corporate Excel training, we can work with an indicative rate of around **AED 4,000 per training day**. I'll confirm the final commercial details in the proposal.
+
+**Ahmed:** So if it's one batch for three days, approximately AED 12,000?
+
+**David:** Correct. And if you decide on two batches, six trainer-days would be approximately AED 24,000.
+
+**Sarah:** Okay. Please show both clearly in the proposal.
+
+**David:** Sure.
+
+**Sarah:** We also need to decide on the venue. We have a meeting room here, but I'm not sure whether it will be suitable.
+
+**Ahmed:** For 15 people, it should be fine. Twenty-one might be a little crowded.
+
+**David:** If we split 21 people into two batches, your meeting room may actually work well because we'd only have around 10 or 11 people at a time.
+
+**Sarah:** That's true.
+
+**Ahmed:** Another option management mentioned was doing it at a hotel.
+
+**David:** That's possible as well. But there would be an additional venue and catering cost. If you have a suitable training room at your office, onsite training would normally be more cost-effective.
+
+**Sarah:** I think onsite should be our preferred option. But could you mention the hotel option separately in the proposal?
+
+**David:** Of course. We can keep the hotel or external venue as an optional item. The actual venue cost can be confirmed once we know the hotel and dates.
+
+**Ahmed:** What would we need to arrange if we conduct it here?
+
+**David:** Mainly a suitable training room, screen or projector, Wi-Fi and laptops for all participants. Ideally everyone should have Microsoft 365 Excel installed.
+
+**Ahmed:** That shouldn't be a problem.
+
+**Sarah:** Will you provide the exercise files?
+
+**David:** Yes. We'll provide the training files and exercises. I'd also recommend a small case study at the end where participants use what they've learned to build a report.
+
+**Sarah:** Good. I would like the training to be practical rather than just the trainer demonstrating things.
+
+**David:** Definitely. We can keep it roughly 30% explanation and demonstration and 70% hands-on exercises.
+
+**Ahmed:** Can we also have some kind of assessment?
+
+**David:** Yes. We can do a short assessment before the training to understand the current level and another one after the program.
+
+**Sarah:** Good. Please include that.
+
+**Ahmed:** When are we looking at doing this?
+
+**Sarah:** Ideally sometime in November. We haven't finalized the dates yet.
+
+**David:** That's fine. We can mention November as the tentative training period and finalize the dates once the proposal is approved.
+
+**Sarah:** Perfect.
+
+**David:** Just to summarize what I've understood: you're looking for intermediate-level Excel training covering formulas, lookups, PivotTables, reporting, basic dashboards, data cleaning and Power Query. We're looking at approximately three days per batch. If there are around 15 participants, we can run one batch. If the number reaches 21, we'll propose two batches of approximately 10 and 11 participants.
+
+**Ahmed:** Correct.
+
+**David:** The preferred location is your office, with an external hotel venue shown as an optional alternative. We'll also include hands-on exercises, a final case study and pre- and post-training assessments.
+
+**Sarah:** Yes, that's exactly what we need.
+
+**David:** Great. I'll prepare the proposal with both participant scenarios and the commercial options.
+
+**Sarah:** Perfect. Once we receive it, Ahmed and I will review it with management.
+
+**Ahmed:** Thanks, David.
+
+**David:** Thank you both.
+
+**Meeting concluded.**
