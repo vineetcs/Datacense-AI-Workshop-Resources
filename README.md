@@ -171,7 +171,7 @@ The AI analyzes the candidate profile, searches for relevant opportunities where
 ### 📋 COPY PROMPT 04
 
 ```text
-Analyze the sales data and give me 5 key insights with trends:
+Analyze the sales data and give me 5 key insights as Charts with trends:
 
 1) Revenue & profit trend over time
 - Monthly/quarterly Sale and Cost totals
