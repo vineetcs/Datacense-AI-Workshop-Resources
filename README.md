@@ -95,63 +95,30 @@ The AI should transform the raw meeting conversation into structured professiona
 ### 📋 COPY PROMPT 03
 
 ```text
-Role & Persona:
-Act as an Executive Tech Recruiter and Global BI/Data Talent Scout specializing in senior contract and remote placements across the US, Europe, and the UAE.
 
-Context & Background:
+Please perform the following job search and application preparation workflow:
 
-- Profile Source: Access and inspect my comprehensive resume/profile documents uploaded in this project folder/workspace.
-- Target Job Roles: Data Analyst, Power BI Consultant, BI Developer, or hybrid AI-Powered Data/Analytics Consultant.
-- Career Focus: Roles where I can leverage my deep expertise in Power BI, advanced DAX, data modeling, automated ETL/reporting workflows, and applied AI tools to deliver business intelligence solutions.
-- Work Model: 100% Remote.
-- Time Zone Flexibility: Fully flexible to align with and overlap standard business hours in the US, Europe, or the UAE.
-- Compensation Preference: Remuneration in international benchmark currencies (USD, EUR, GBP) or competitive UAE Dirham (AED) contracts.
+1. Read my CV:
+   - Locate and parse my base CV PDF file in the current working directory.
 
----
+2. Search Indeed:
+   - Query Indeed for "Data Analyst" positions.
+   - Filter criteria:
+     * Setup: 100% Remote / Work from Home.
+     * Location: UAE, US, UK, or any European countries (open to any working hours/time zones).
+     * Compensation: Minimum equivalent of AED 20,000/month or above (approx. $5,500 USD/month, £4,200 GBP/month, or €5,000 EUR/month, or their respective annual equivalents ~$65k+ USD / £50k+ GBP / €60k+ EUR). Skip roles explicitly below this threshold.
 
-Task Objectives:
+3. Shortlist & Output Setup:
+   - Shortlist all job postings matching these requirements.
+   - For each matching job, create a dedicated folder named after the company/client (e.g., `./applications/[Client_Name]/`).
 
-1. Analyze Profile Match:
-Review my uploaded profile documents to extract core competencies in data analytics, dashboard engineering, modeling complexity, and business acumen.
+4. Generate Application Assets in Each Folder:
+   Inside each company's directory, generate:
+   - `cover_letter.txt`: A tailored cover letter referencing the specific role and company, ready to paste into an email. At the very top of this file, include the target application email address (or job application URL if direct email is not listed).
+   - `tailored_resume.docx`: A customized Microsoft Word version of my CV aligned with their specific job description, highlighting required tools, methodologies, and key qualifications so I can make final manual edits before converting to PDF.
 
-2. Shortlist Indeed Openings:
-Identify and evaluate Data Analyst and Power BI Consultant listings on Indeed (US, UK/EU, and UAE Indeed domains) that offer remote flexibility.
-
-3. Draft a Level 1 Screening Report:
-Deliver a curated shortlist of high-fit opportunities where my background strongly matches the project or company needs.
-
----
-
-Constraints & Filtering Criteria:
-
-- Target Titles:
-Focus strictly on Data Analyst, Power BI Consultant, Power BI / BI Developer, or Lead Analytics Consultant.
-
-- Exclude:
-Entry-level internships, mandatory on-site/hybrid positions requiring relocation, or pure software engineering roles unrelated to data and BI.
-
-- Fit Threshold:
-Shortlist only roles where my background matches ≥75% of the primary responsibilities, tooling requirements (e.g., Power BI, SQL, DAX, business reporting), and seniority level.
-
----
-
-Output Format:
-
-1. Profile Alignment Summary
-
-- 3–4 concise bullet points defining my exact value proposition for Data Analyst and Power BI Consultant openings.
-
-2. Level 1 Indeed Shortlist
-
-Provide a structured Markdown table with the following columns:
-
-| # | Job Title | Company | Target Region / Base Currency | Key Alignment (Why I Fit) | Indeed Search Query / Listing Reference |
-|---|---|---|---|---|---|
-
-3. High-Impact Action Items
-
-- Top 3 skills, metrics, or case study highlights from my profile to emphasize for these roles.
-- Suggested positioning strategy for international remote engagement and time zone overlap.
+5. Final Summary:
+   - Print a consolidated list of all shortlisted positions, company names, listed compensation, and their folder paths when complete.
 ```
 
 ### 📁 What You Need
