@@ -157,7 +157,7 @@ Please perform the following job search and application preparation workflow:
 
 3. Shortlist & Output Setup:
    - Shortlist all job postings matching these requirements.
-   - For each matching job, create a dedicated folder named after the company/client (e.g., `./applications/[Client_Name]/`).
+   - For each matching job, create a dedicated folder named after the company/client (e.g., `./[Oppurtunity List]/[Client_Name]/`).
 
 4. Generate Application Assets in Each Folder:
    Inside each company's directory, generate:
