@@ -50,7 +50,7 @@ we provide the AI with enough context to understand **who we are, what we need, 
 
 # 02 — Meeting Transcript → Minutes of Meeting (MoM)
 
-### 📋 COPY PROMPT 02
+### 📋 COPY PROMPT 02 A
 
 ```text
 Analyze the attached meeting transcript and create professional Minutes of Meeting (MoM).
@@ -89,6 +89,53 @@ Upload the **sample meeting transcript** provided during the webinar and then ru
 The AI should transform the raw meeting conversation into structured professional **Minutes of Meeting**, including requirements, decisions, pending items, and action items.
 
 ---
+### 🗣️ Last-Minute Executive Presentation: AI & Employee Productivity
+
+### 📋 Scenario
+Imagine you receive this message from your manager at 4:30 PM:
+
+"We have a management meeting tomorrow. Can you prepare a short presentation on how AI can improve employee productivity? Keep it business-focused and give us some practical recommendations."
+
+Normally, your next two or three hours are gone 😊
+
+### 📋 COPY PROMPT 02 B
+
+```text
+Context:
+My manager has requested this presentation for tomorrow's management meeting. The audience consists of department heads and senior managers who understand business but are not AI experts.
+
+Task:
+Create an engaging 8–10 slide presentation that can be delivered in approximately 10–12 minutes.
+
+Cover:
+
+- Why AI productivity matters now
+- Where employees typically spend time on repetitive work
+- 5 practical ways AI can improve everyday productivity
+- Examples for HR, Finance, Sales and Operations
+- What should and should not be automated
+- Risks such as data privacy, accuracy and over-reliance on AI
+- A simple approach for introducing AI within the organization
+- 3 practical actions management can take in the next 30 days
+- A strong closing slide
+
+Keep each slide simple and executive-friendly.
+Use strong headlines, short supporting points, business examples, diagrams and visual storytelling wherever appropriate.
+
+Constraint:
+Avoid long paragraphs and technical AI terminology.
+Make the presentation look like it was created by a professional management consulting team rather than a generic AI-generated presentation.
+
+Format:
+For every slide, provide:
+
+1. Slide title
+2. Key message
+3. Slide content
+4. Recommended visual or diagram
+5. Speaker notes
+```
+---
 
 # 03 — Job Search Automation
 
@@ -106,7 +153,7 @@ Please perform the following job search and application preparation workflow:
    - Filter criteria:
      * Setup: 100% Remote / Work from Home.
      * Location: UAE, US, UK, or any European countries (open to any working hours/time zones).
-     * Compensation: Minimum equivalent of AED 20,000/month or above (approx. $5,500 USD/month, £4,200 GBP/month, or €5,000 EUR/month, or their respective annual equivalents ~$65k+ USD / £50k+ GBP / €60k+ EUR). Skip roles explicitly below this threshold.
+     * Compensation: Minimum equivalent of AED 20,000/month or above (approx. $5,500 USD/month, £4,200 GBP/month, €5,000 EUR/month, or annual equivalents ~$65k+ USD / £50k+ GBP / €60k+ EUR). Skip roles explicitly below this threshold.
 
 3. Shortlist & Output Setup:
    - Shortlist all job postings matching these requirements.
@@ -114,11 +161,20 @@ Please perform the following job search and application preparation workflow:
 
 4. Generate Application Assets in Each Folder:
    Inside each company's directory, generate:
-   - `cover_letter.txt`: A tailored cover letter referencing the specific role and company, ready to paste into an email. At the very top of this file, include the target application email address (or job application URL if direct email is not listed).
+   - `cover_letter.txt`: A tailored cover letter referencing the specific role and company, ready to paste into an email. At the very top, include the target application email address (or direct job link if no email is given).
    - `tailored_resume.docx`: A customized Microsoft Word version of my CV aligned with their specific job description, highlighting required tools, methodologies, and key qualifications so I can make final manual edits before converting to PDF.
 
-5. Final Summary:
-   - Print a consolidated list of all shortlisted positions, company names, listed compensation, and their folder paths when complete.
+5. Final Summary Table:
+   Output a consolidated Markdown comparison table of all shortlisted positions with the following columns:
+   - Company Name
+   - Role Title & Country / Timezone
+   - Listed Compensation
+   - Match Score: Category & percentage (e.g., "Strong Match (90-100%)", "Moderate Match (75-89%)", "Partial Match (60-74%)")
+   - Posting Date / Age (e.g., "Posted 2 days ago")
+   - Hiring Urgency / Target Start Date (e.g., "Immediate", "Within 30 days", "Not specified")
+   - Primary Stack / Keywords Required (e.g., "Power BI, SQL, DAX, Python")
+   - Application Channel / Target Email
+   - Folder Path
 ```
 
 ### 📁 What You Need
