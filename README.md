@@ -165,7 +165,7 @@ Please perform the following job search and application preparation workflow:
    - `tailored_resume.docx`: A customized Microsoft Word version of my CV aligned with their specific job description, highlighting required tools, methodologies, and key qualifications so I can make final manual edits before converting to PDF.
 
 5. Final Summary Table:
-   Output a consolidated Markdown comparison table of all shortlisted positions with the following columns:
+   Output a consolidated CSV comparison table of all shortlisted positions with the following columns:
    - Company Name
    - Role Title & Country / Timezone
    - Listed Compensation
@@ -175,6 +175,8 @@ Please perform the following job search and application preparation workflow:
    - Primary Stack / Keywords Required (e.g., "Power BI, SQL, DAX, Python")
    - Application Channel / Target Email
    - Folder Path
+
+   Save the file in the opportunity folder  (e.g., `./[Oppurtunity List]/)
 ```
 
 ### 📁 What You Need
