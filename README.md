@@ -53,31 +53,27 @@ we provide the AI with enough context to understand **who we are, what we need, 
 ### 📋 COPY PROMPT 02 A
 
 ```text
-Analyze the attached meeting transcript and create professional Minutes of Meeting (MoM).
+Analyze the attached meeting transcript and prepare clear, professional Minutes of Meeting (MoM) in simple language.
 
-Do not simply summarize the conversation. Extract and organize the important business information into:
+Organize the output into these sections:
 
-1. Meeting objective
-2. Client requirements
-3. Training audience and expected number of participants
-4. Topics/modules requested
-5. Proposed training duration
-6. Batch options discussed
-7. Preferred training location
-8. Alternative venue option
-9. Commercial details discussed
-10. Training methodology and assessments
-11. Client responsibilities
-12. Training provider responsibilities
-13. Decisions made
-14. Items still to be confirmed
-15. Action items and next steps
+Meeting Details: Date, participants, and purpose.
 
-Clearly distinguish between confirmed requirements, proposed options, and items that still need confirmation.
+Key Discussion Points: Important topics, requirements, and suggestions discussed.
 
-Do not invent any information that was not discussed in the meeting.
+Decisions Made: What was agreed upon or finalized.
 
-At the end, provide a short "Key Takeaways" section that a manager can read in less than one minute.
+Pending Items: Questions or details that still need confirmation.
+
+Action Items: Tasks, responsible persons, and deadlines (if mentioned).
+
+Key Takeaways: A brief summary of the meeting in 3–5 bullet points.
+
+Important Instructions:
+Keep the entire MoM within 2 pages maximum.
+Use simple, professional language that anyone can understand.
+Use bullet points and tables wherever they improve readability.
+
 ```
 
 ### 📁 What You Need
@@ -101,39 +97,13 @@ Normally, your next two or three hours are gone 😊
 ### 📋 COPY PROMPT 02 B
 
 ```text
-Context:
-My manager has requested this presentation for tomorrow's management meeting. The audience consists of department heads and senior managers who understand business but are not AI experts.
+Create a professional **8–10 slide presentation on “How AI Can Improve Workplace Productivity”** for senior management.
 
-Task:
-Create an engaging 8–10 slide presentation that can be delivered in approximately 10–12 minutes.
+Cover why AI matters, 5 practical productivity benefits, real-world business examples, key risks, and recommended next steps.
 
-Cover:
+Use simple language, minimal text, attractive visuals, and a clean, professional design.
 
-- Why AI productivity matters now
-- Where employees typically spend time on repetitive work
-- 5 practical ways AI can improve everyday productivity
-- Examples for HR, Finance, Sales and Operations
-- What should and should not be automated
-- Risks such as data privacy, accuracy and over-reliance on AI
-- A simple approach for introducing AI within the organization
-- 3 practical actions management can take in the next 30 days
-- A strong closing slide
-
-Keep each slide simple and executive-friendly.
-Use strong headlines, short supporting points, business examples, diagrams and visual storytelling wherever appropriate.
-
-Constraint:
-Avoid long paragraphs and technical AI terminology.
-Make the presentation look like it was created by a professional management consulting team rather than a generic AI-generated presentation.
-
-Format:
-For every slide, provide:
-
-1. Slide title
-2. Key message
-3. Slide content
-4. Recommended visual or diagram
-5. Speaker notes
+Include brief speaker notes for each slide.
 ```
 ---
 
@@ -196,29 +166,15 @@ The AI analyzes the candidate profile, searches for relevant opportunities where
 ### 📋 COPY PROMPT 04
 
 ```text
-Analyze the sales data and give me 5 key insights as Charts with trends:
+Analyze the attached sales data and present **5 key insights with charts and trends**:
 
-1) Revenue & profit trend over time
-- Monthly/quarterly Sale and Cost totals
-- Gross margin %
-- Identify whether the trend is growing, flat, or declining
+1. **Sales & Profit Trends:** Revenue, cost, profit, and margin % over time.
+2. **Top & Bottom Performers:** Best and worst salespeople/managers by revenue and margin.
+3. **Geographic Performance:** Top-performing cities/countries and changes over time.
+4. **Customer Analysis:** Key customers/segments, revenue contribution, and growth or decline.
+5. **Product Performance:** Best and worst products by revenue and margin.
 
-2) Top and bottom performers
-- Best and worst Manager/Salesman by total Sale
-- Best and worst Manager/Salesman by margin
-
-3) Geographic breakdown
-- Which City/Country drives the most revenue
-- How that geographic mix has shifted over the period
-
-4) Customer Type / Customer Name concentration
-- Which segments or accounts contribute the most
-- Identify any customers growing or shrinking notably
-
-5) Product performance
-- Best- and worst-selling products by revenue
-- Best and worst products by margin
-- Identify any notable shifts across the year(s)
+Use clear charts, highlight important trends, and provide brief, actionable insights. Base all findings on the available data.
 ```
 
 ### 📁 What You Need
